@@ -1,0 +1,40 @@
+# Gradle
+.gradle/
+build/
+*.gradle.lock
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+local.properties
+
+# Build outputs
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+out/
+
+# Kotlin
+kotlin-build/
+.kotlin/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.VS_Code/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+.DS_Store
